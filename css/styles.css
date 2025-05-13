@@ -1,0 +1,27 @@
+body {
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 24px;
+    background-color: #FFFFFF;
+}
+ 
+.hero_image {
+    width: 1440;
+    line-height: 600;
+    background-color: #2E2F42;
+    margin-top: 72px;
+}
+ 
+ 
+.header_nav {
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+
+
